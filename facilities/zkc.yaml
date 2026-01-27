@@ -8,7 +8,7 @@ staff_title_separator: "/"
 positions:
 - name: Enroute
   callsigns:
-    prefix: ["MCI"]
+    prefix: ["KC"]
     suffix: ["CTR"]
 - name: T75 TRACON
   callsigns:
